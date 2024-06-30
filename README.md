@@ -2,4 +2,4 @@ These are the code notebooks for the final research project of the minor. The [a
 
 
 # Code for the RS
-The original code used for the [RS](https://github.com/hannahbrunn/Digital-Society---Group-2.1/blob/main/code.ipynb) and [book CSV](https://github.com/hannahbrunn/Digital-Society---Group-2.1/blob/main/final.csv) it was based on can also be found in this repository. 
+The original code used for the [RS](https://github.com/hannahbrunn/Digital-Society---Group-2.1/blob/main/RS%20code.ipynb) and [book CSV](https://github.com/hannahbrunn/Digital-Society---Group-2.1/blob/main/books%20for%20RS.csv) it was based on can also be found in this repository. 
